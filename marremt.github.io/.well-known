@@ -1,10 +1,9 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "se.marremt.veckohandla",
-      "sha256_cert_fingerprints": ["ERSÄTT_MED_FINGERAVTRYCKET_FRÅN_PWABUILDER"]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.marremt.twa",
+        "sha256_cert_fingerprints": ["A1:60:03:F1:25:16:60:40:2C:6D:35:82:66:65:49:CB:31:F9:F9:2F:27:3A:EF:F2:6B:2E:1D:6E:9E:36:DB:34"]
+      }
+    }]
+
